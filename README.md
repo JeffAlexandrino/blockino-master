@@ -86,5 +86,5 @@ Após um breve carregamento, em raspberry login digite **root**, aperte enter e 
 Para mais informações sobre o hardware e software, acesse o [manual](https://github.com/SATCEngComputacao/RexLab) do projeto. 
   
 ## Autores
-[Jefferson Barzan Alexandrino](https://github.com/JeffAlexandrino)
-[Guilherme Chaves Volpato](https://github.com/GuilhermeVolpato)
+- [Jefferson Barzan Alexandrino](https://github.com/JeffAlexandrino)
+- [Guilherme Chaves Volpato](https://github.com/GuilhermeVolpato)
